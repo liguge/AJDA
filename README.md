@@ -6,5 +6,5 @@ Distribution alignment mechanism serves as a fundamental basis for a cross-domai
 
 ## 📝 Citation
 
-Quan Qian et al. Asynchronous joint distribution alignment: a new domainconfusion mechanism for fault transfer diagnosis
+Quan Qian et al. Asynchronous joint distribution alignment: a new domain confusion mechanism for fault transfer diagnosis
 IEEE/ASME Transactions on Mechatronics
