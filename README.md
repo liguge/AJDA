@@ -2,8 +2,6 @@
 
 **异步联合分布适配 | 机械故障诊断迁移学习**
 
-Official implementation of AJDA (Asynchronous Joint Distribution Alignment) for cross-condition/cross-bearing fault diagnosis in rotating machinery (planetary gearboxes, bearings).
-
 [[GitHub Repository](https://github.com/liguge/AJDA)] | Paper: [IEEE/ASME TRANSACTIONS ON MECHATRONICS](https://doi.org/10.1109/TMECH.2026.3669233)
 
 ## 📖Article Interpretation
