@@ -8,7 +8,7 @@
 
 Brief Version:
 
-- Wechat：
+- Wechat：https://mp.weixin.qq.com/s/ZvkCTdaacgD-yHB-ggxyqA
 
 ## 🔍Overview
 
